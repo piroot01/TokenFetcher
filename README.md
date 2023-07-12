@@ -8,7 +8,6 @@ The program consists of the following files:
 
 - TokenFetcher.cpp: Contains the implementation of the TokenFetcher class.
 - TokenFetcher.h: Defines the TokenFetcher class and its member functions.
-- main.cpp: Contains the main function that demonstrates the usage of the TokenFetcher class.
 
 ## Dependencies
 
